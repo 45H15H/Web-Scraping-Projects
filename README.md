@@ -4,6 +4,7 @@ A collection of web scraping projects.
 | Project | Description |
 |---|---|
 | [goodreads](https://github.com/45H15H/Scraping-Best-Books-Ever) | Best books ever |
+| [TED Talks](https://github.com/45H15H/Scraping-TED) | Word cloud from transcript |
 
 ## Requirements
 A few of these projects use data analysis and data visualization to make inferences from the data. Libraries that are used include:

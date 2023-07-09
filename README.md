@@ -1,4 +1,4 @@
-# Web-Scraping-Projects
+# Web Scraping Projects
 A collection of web scraping projects.
 
 | Project | Description |

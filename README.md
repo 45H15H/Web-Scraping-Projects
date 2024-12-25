@@ -6,6 +6,7 @@ A collection of web scraping projects.
 | [goodreads](https://github.com/45H15H/Scraping-Best-Books-Ever) | Best books ever |
 | [TED Talks](https://github.com/45H15H/Scraping-TED) | Word cloud from transcript |
 | [Doja Cat](https://github.com/45H15H/Scraping-Doja-Cat-Lyrics) | Doja Cat lyric dataset|
+| [ScoreBot](https://github.com/45H15H/ScoreBot) | Scorecard retrieval bot |
 
 ## Requirements
 A few of these projects use data analysis and data visualization to make inferences from the data. Libraries that are used include:
